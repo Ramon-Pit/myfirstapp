@@ -1,0 +1,29 @@
+.col-reverce{
+    text-align: end;
+    margin: 15px 0 30px 0;
+}
+.col-reverce > button > a{
+    color: white;
+}
+.col > table{
+    width: 100%;
+}
+.container{
+    background: #FFFFFF;
+    min-height: 700px;
+    box-shadow: 0px 20px 20px rgba(40, 40, 40, 0.05);
+    border-radius: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+.list-link{
+    display: inline-block;
+    width: 255px;
+    height: 60px;
+    text-align: center;
+}
+.list-link:hover{
+    border-bottom: 3px solid #007BFF;
+}
+
+    

@@ -1,0 +1,56 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "image": "https://maniamods.ru/_ld/62/22610443.jpg",
+            "name": "Mercedes Benz",
+            "price": 118000,
+            "date": "05.07.2019",
+            "year": "2017",
+            "property": {
+                "салон": "кожа",
+                "подвеска": "многорыччажная",
+                "color": ["blue", "red", "green"],
+                "fuel": "dizel"
+            }
+        },
+        {
+            "id": 2,
+            "image": "https://i.ytimg.com/vi/BZ0PiAWNf_4/maxresdefault.jpg",
+            "name": "Lada Priora",
+            "price": 500,
+            "date": "10.10.2019",
+            "year": "2010",
+            "property": {
+                "салон": "велюр",
+                "подвеска": "говно",
+                "color": ["grey", "black", "white"],
+                "fuel": "benzin"
+            }
+        },
+        {
+            "id": 3,
+            "image": "https://cdnimg.rg.ru/img/content/180/04/44/1234_d_850.jpg",
+            "name": "Lamborginy",
+            "price": 1500000,
+            "date": "21.04.2020",
+            "year": "2019",
+            "property": {
+                "салон": "кожа",
+                "подвеска": "многорыччажная",
+                "color": ["gold", "orange", "black"],
+                "fuel": "eco"
+            }
+        }
+    ],
+    "property": [
+        {
+            "name": "Цвет авто",
+            "type": "string"
+        },
+        {
+            "name": "Пробег",
+            "type": "number"
+        }
+    ]
+}

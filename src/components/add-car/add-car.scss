@@ -1,0 +1,23 @@
+.col-rev{
+    text-align: right;  
+}
+.col-rev > button{
+    margin-left: 30px;
+}
+.col-rev > button > a{
+    color: white;
+}
+.row-center{
+    margin: 30px 0 15px 0 ;
+}
+.row-center > .col-6 > div{
+    margin-bottom: 20px;
+}
+.row-center > .col-6 > h4{
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+.container{
+    padding: 40px 15px 20px 15px;
+    margin-top: 20px;
+}
